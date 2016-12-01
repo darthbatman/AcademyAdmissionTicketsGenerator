@@ -1,0 +1,9 @@
+c:\users\darth\documents\visual studio 2015\Projects\AATG\AATG\bin\Debug\AATG.exe.config
+c:\users\darth\documents\visual studio 2015\Projects\AATG\AATG\bin\Debug\AATG.exe
+c:\users\darth\documents\visual studio 2015\Projects\AATG\AATG\bin\Debug\AATG.pdb
+c:\users\darth\documents\visual studio 2015\Projects\AATG\AATG\obj\Debug\AATG.csproj.ResolveComReference.cache
+c:\users\darth\documents\visual studio 2015\Projects\AATG\AATG\obj\Debug\AATG.Applicant.resources
+c:\users\darth\documents\visual studio 2015\Projects\AATG\AATG\obj\Debug\AATG.Properties.Resources.resources
+c:\users\darth\documents\visual studio 2015\Projects\AATG\AATG\obj\Debug\AATG.csproj.GenerateResource.Cache
+c:\users\darth\documents\visual studio 2015\Projects\AATG\AATG\obj\Debug\AATG.exe
+c:\users\darth\documents\visual studio 2015\Projects\AATG\AATG\obj\Debug\AATG.pdb
