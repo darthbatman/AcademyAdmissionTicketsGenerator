@@ -1,3 +1,0 @@
-GUI with progress (number of tickets finished counter)
-.docx generation instead of .doc
-room number
